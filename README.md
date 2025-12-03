@@ -47,17 +47,14 @@ DiffLens는 패널 데이터 분석 및 비교를 위한 웹 애플리케이션�
 ### Installation
 
 ```bash
+git clone https://github.com/hansung-sw-capstone-2025-2/2025_8_A_FE.git
+cd 2025_8_A_FE
+```
+
+```bash
 npm install
 # 또는
 pnpm install
-```
-
-### Installation
-
-```bash
-npm run dev
-# 또는
-pnpm dev
 ```
 
 ### Build
